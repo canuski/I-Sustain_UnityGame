@@ -11,6 +11,26 @@
 /[Uu]ser[Ss]ettings/
 
 Assets/ImportedAssets/*
+Assets/Settings.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+ProjectSettings/CommonBurstAotSettings.json
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
