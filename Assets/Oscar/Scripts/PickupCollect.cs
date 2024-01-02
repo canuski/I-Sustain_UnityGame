@@ -7,9 +7,10 @@ using Unity.VisualScripting;
 public class PickupCollect : MonoBehaviour
 {
     [SerializeField] Text score;
-    [SerializeField] GameObject popUpPlane; // Assign the reference in the Unity Editor
+    [SerializeField] GameObject popUpPlane;
     [SerializeField] GameObject NextTask; 
     private static int scoreValue = 0;
+    // voor pop up
     private int barrelsToCollectToShowPopUp = 3;
 
     void Start()
@@ -31,9 +32,9 @@ public class PickupCollect : MonoBehaviour
             scoreValue += 1;
             SetScore();
 
+            // om pop up te tonen
             if (scoreValue >= barrelsToCollectToShowPopUp)
             {
-                // Check if we've collected enough barrels to show the pop-up
                 ShowPopUp();
             }
         }
@@ -51,7 +52,6 @@ public class PickupCollect : MonoBehaviour
 
     void ShowPopUp()
     {
-        // Activate the pop-up plane
         if (popUpPlane != null)
         {
             popUpPlane.SetActive(true);
@@ -59,6 +59,7 @@ public class PickupCollect : MonoBehaviour
     }
     public void NextTasks()
     {
+        // voor next task button
         popUpPlane.SetActive(false);
         NextTask.SetActive(true);
     }

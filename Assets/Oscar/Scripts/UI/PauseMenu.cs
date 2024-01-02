@@ -13,7 +13,7 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         pauseMenu.SetActive(false);
-        Time.timeScale = 1f;
+        Time.timeScale = 1f;// 1f doet het terug naar normale tijd
     }
     public void Home()
     {
