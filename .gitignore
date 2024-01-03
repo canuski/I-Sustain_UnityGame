@@ -11,9 +11,9 @@
 /[Uu]ser[Ss]ettings/
 
 Assets/ImportedAssets/*
-Assets/Settings.meta
-Assets/UniversalRenderPipelineGlobalSettings.asset
-Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+# Assets/Settings.meta
+# Assets/UniversalRenderPipelineGlobalSettings.asset
+# Assets/UniversalRenderPipelineGlobalSettings.asset.meta
 Packages/manifest.json
 Packages/packages-lock.json
 ProjectSettings/AudioManager.asset
