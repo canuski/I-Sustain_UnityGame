@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelLoader : MonoBehaviour
+public class LevelLoaderOscar : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
