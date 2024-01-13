@@ -13,9 +13,51 @@ Als je level 3 hebt voltooid, zal er in level 4 een zeer moeilijke opdracht te w
 In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten van een rustige cruise door een mooi landschap. De rustgevende vibe van deze level, geïnspireerd door 'I Drive' van Ryan Gosling, is een ideale afsluiter voor een leuke en informatieve game. Laat je niet verleiden door de rust! Je moet namelijk 'Discordia leaves' verzamelen voordat de tijd uitloopt! Als het je lukt om de Discordia leaves te verzamelen en het einde van de level te bereiken, zal je nog de mooie zonsondergang kunnen bekijken voordat onze game wordt beëindigd.
 
 ## Haitam Baqoul - Level 1
-### Design Process
-ZET HIER HOE JE 
+### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+### Educational value
+- welke sustainability leert je game aan
+### Rescources used & Design process
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+
 ## Oscar Alexander - Level 2
+### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+### Educational value
+- welke sustainability leert je game aan
+### Rescources used & Design process
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+
 ## Mohammed Asad - Level 3
+### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+### Educational value
+- welke sustainability leert je game aan
+### Rescources used & Design process
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+
 ## Maximilan Duda - Level 4
+### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+### Educational value
+- welke sustainability leert je game aan
+### Rescources used & Design process
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+
 ## Turgay Fatih Yaşer - Level 5
+### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+### Educational value
+- welke sustainability leert je game aan
+### Rescources used & Design process
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
