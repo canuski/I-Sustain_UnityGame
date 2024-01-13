@@ -3,7 +3,8 @@
 Welkom bij onze game. Deze game heet 'I Sustain' en bevind zich in een wereled die 'Discordia' heet. 
 
 Je zal in de eerste level zien hoe 'Discordia' is vernietigd en zelf kunnen ervaren hoe het is om in een werled van verwoesting en anti-sustainability te zijn. 
-In de tweede level zal je beginnen aan een missie als het leider van een volk dat zich probeert af te weren van het leger dat de eerste wereld (eerste level) volledig heeft kapot gemaakt. Je zal verschillende taken moeten uitvoeren zoals; verzamelen van afal, opblazen van de slechterikken en genieten van de mooie wereld. 
+
+In de tweede level zal je beginnen aan een missie als het leider van een volk dat zich probeert af te weren van het leger dat de eerste wereld (eerste level) volledig heeft kapot gemaakt. Je zal verschillende taken moeten uitvoeren zoals; verzamelen van afval, opblazen van de slechterikken en genieten van de mooie wereld. 
 
 In het derde level ga je een variatie van taken moetn uitvoeren om zo sustainability minded om te gaan met je omgeving. Je zal dingen moeten doen zoals; coins collecten, taken uitvoeren om windmolens te laten draaien en uiteidelijk de sustainable power source van een stad aanzetten.
 
