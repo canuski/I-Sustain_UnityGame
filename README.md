@@ -15,21 +15,21 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 ## Designproces
 #### 1. Vooronderzoek en projectdefinitie
   - Vergadering gehouden om het project te bespreken, op ideeën te komen en om rollen toe te wijzen.
-  b. Basisproject vastgesteld.
+  - Basisproject vastgesteld.
 #### 2. Brainstorming
-  a. Brainstormsessies gehouden tijdens lab-momenten.
-  b. Bepaal de haalbaarheid binnen de toegewezen tijd.
+  - Brainstormsessies gehouden tijdens lab-momenten.
+  - Bepaal de haalbaarheid binnen de toegewezen tijd.
 #### 3. Definiteif ontwerp
-  a. Tijdens de laatste lables een grondig idee hebben van het project en hoe het er gaat uit zien.
-  b. Elk teamlid een level toewijzen.
-  c. Communicatiemiddelen opgezet (discord groep).
+  - Tijdens de laatste lables een grondig idee hebben van het project en hoe het er gaat uit zien.
+  - Elk teamlid een level toewijzen.
+  - Communicatiemiddelen opgezet (discord groep).
 #### 4. Ontwikkeling en programming
-  a. Tijdens de toegewezen tijd de opdrachten uitvoeren.
-  b. Het ontwikkelen van de game begint nu.
-  c. Communicatie onderhouden met andere teamleden over voortgang en status.
+  - Tijdens de toegewezen tijd de opdrachten uitvoeren.
+  - Het ontwikkelen van de game begint nu.
+  - Communicatie onderhouden met andere teamleden over voortgang en status.
 #### 5. Definiteive documentatie
-  a. ReadME en desgin document opstellen en uittypen
-  b. Als er nog updates gebeuren, ervoor zorgen dat de documentatie juist wordt aangepast
+  - README en desgin document opstellen en uittypen
+  - Als er nog updates gebeuren, ervoor zorgen dat de documentatie juist wordt aangepast
 
 ## Haitam Baqoul - Level 1
 #### Contribution
