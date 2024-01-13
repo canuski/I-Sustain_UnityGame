@@ -1,6 +1,6 @@
 # Documentatie Project
 ## Introductie
-Welkom bij onze game. Deze game heet 'I Sustain' en bevindt zich in een wereld die 'Discordia' heet.
+Welkom bij onze game. Deze game heet 'I Sustain' en bevindt zich in een wereld die 'Discordia' heet. Het is in Unity gemaakt en de scripts worden in C# geprogrammeerd.
 
 Je zal in het eerste level zien hoe Discordia is vernietigd en zelf kunnen ervaren hoe het is om in een wereld van verwoesting en anti-sustainability te zijn.
 
@@ -25,8 +25,15 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 
 ## Oscar Alexander - Level 2
 #### Contribution
-- welke taak, level, componenten heb je aan gewerkt
-- welke problemen had je en hoe lost je ze op
+- Ik heb mijn beziggehouden met het beheer van de projectrepositiry op Github. Ik had meerdere taken hierbij, zoals menesn ondersteunen die iets niet snapte, oplossen van alle merge confilicten, het beheren van branches, de ReadME aanmaken en bijhouden en voor een goede communicatie over alles dat ik heb aangepast, verandered op toegevoegd aan de projectrepo.
+- Ik hield me ook bezig met het proberen te origaniseren van momenten dat we samen kwamen om de vooruitgang te bespreken.
+- Ik heb level 2 gemkaat, met het oog op mooie graphics, een leuke maar niet moeilijk gameplay en leerzaamheid op vlak van sustainability
+
+##### Problemen
+- Ik ondervond veel problemen bij het gebruik van Github. Ten eerste is Github niet gemaakt om vlot in een Unity project te intgreren. 
+- Het was moelijk om een goede .GitIgnore op te stellen wanneer iederen zeer grote geimporte assets gebruikt, daarbij duurt het ook super lang om the pushen. Je moet elke folder apart pushen, andere wordt het limiet van Github bereikt en faalt de push. Ik heb het gitignore probleem kunnen oplossen door iedereen een ImportedAssets map aan te maken en daarin alle grote geimporte assets tijdelijk zetten, tot ze konden verwijderen wat ze niet meet nodig hadden. 
+- Ik weinig problemen bij Unity zelf, als ik een turtorial vond op documentatie online was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem bij mijn camera waarbij hij stuiderde. Om dit op te lossen maak ik gebruik van de .smoothFollow().
+
 #### Educational value
 - welke sustainability leert je game aan
 #### Rescources used & Design process
