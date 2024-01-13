@@ -12,12 +12,24 @@ Als je level 3 hebt voltooid, zal er in level 4 een zeer moeilijke opdracht te w
 
 In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten van een rustige cruise door een mooi landschap. De rustgevende vibe van deze level, geïnspireerd door 'I Drive' van Ryan Gosling, is een ideale afsluiter voor een leuke en informatieve game. Laat je niet verleiden door de rust! Je moet namelijk 'Discordia leaves' verzamelen voordat de tijd uitloopt! Als het je lukt om de Discordia leaves te verzamelen en het einde van de level te bereiken, zal je nog de mooie zonsondergang kunnen bekijken voordat onze game wordt beëindigd.
 
-## Design process
+## Designproces
 #### 1. Vooronderzoek en projectdefinitie
-  - Vergadering gehouden om het project te bespreken, op ideeen te komen en om rollen toe te wijzen.
-  - Een basis project hebben uitgelijnd
-    Ontwikkeling en brainstorming
-3. 
+  a. Vergadering gehouden om het project te bespreken, op ideeën te komen en om rollen toe te wijzen.
+  b. Basisproject vastgesteld.
+#### 2. Brainstorming
+  a. Brainstormsessies gehouden tijdens lab-momenten.
+  b. Bepaal de haalbaarheid binnen de toegewezen tijd.
+#### 3. Definiteif ontwerp
+  a. Tijdens de laatste lables een grondig idee hebben van het project en hoe het er gaat uit zien.
+  b. Elk teamlid een level toewijzen.
+  c. Communicatiemiddelen opgezet (discord groep).
+#### 4. Ontwikkeling en programming
+  a. Tijdens de toegewezen tijd de opdrachten uitvoeren.
+  b. Het ontwikkelen van de game begint nu.
+  c. Communicatie onderhouden met andere teamleden over voortgang en status.
+#### 5. Definiteive documentatie
+  a. ReadME en desgin document opstellen en uittypen
+  b. Als er nog updates gebeuren, ervoor zorgen dat de documentatie juist wordt aangepast
 
 ## Haitam Baqoul - Level 1
 #### Contribution
