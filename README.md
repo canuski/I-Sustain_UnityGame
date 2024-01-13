@@ -12,6 +12,7 @@ Als je level 3 hebt voltooid, zal er in level 4 een zeer moeilijke opdracht te w
 
 In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten van een rustige cruise door een mooi landschap. De rustgevende vibe van deze level, geïnspireerd door 'I Drive' van Ryan Gosling, is een ideale afsluiter voor een leuke en informatieve game. Laat je niet verleiden door de rust! Je moet namelijk 'Discordia leaves' verzamelen voordat de tijd uitloopt! Als het je lukt om de Discordia leaves te verzamelen en het einde van de level te bereiken, zal je nog de mooie zonsondergang kunnen bekijken voordat onze game wordt beëindigd.
 
+
 ## Haitam Baqoul - Level 1
 ### Contribution
 - welke taak, level, componenten heb je aan gewerkt
