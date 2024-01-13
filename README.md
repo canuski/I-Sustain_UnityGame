@@ -21,24 +21,31 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke sustainability leert je game aan
 #### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
-- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Oscar Alexander - Level 2
 #### Contribution
 - Ik heb mijn beziggehouden met het beheer van de projectrepositiry op Github. Ik had meerdere taken hierbij, zoals menesn ondersteunen die iets niet snapte, oplossen van alle merge confilicten, het beheren van branches, de ReadME aanmaken en bijhouden en voor een goede communicatie over alles dat ik heb aangepast, verandered op toegevoegd aan de projectrepo.
 - Ik hield me ook bezig met het proberen te origaniseren van momenten dat we samen kwamen om de vooruitgang te bespreken.
 - Ik heb level 2 gemkaat, met het oog op mooie graphics, een leuke maar niet moeilijk gameplay en leerzaamheid op vlak van sustainability
-
-##### Problemen
+##### Problems
 - Ik ondervond veel problemen bij het gebruik van Github. Ten eerste is Github niet gemaakt om vlot in een Unity project te intgreren. 
 - Het was moelijk om een goede .GitIgnore op te stellen wanneer iederen zeer grote geimporte assets gebruikt, daarbij duurt het ook super lang om the pushen. Je moet elke folder apart pushen, andere wordt het limiet van Github bereikt en faalt de push. Ik heb het gitignore probleem kunnen oplossen door iedereen een ImportedAssets map aan te maken en daarin alle grote geimporte assets tijdelijk zetten, tot ze konden verwijderen wat ze niet meet nodig hadden. 
 - Ik weinig problemen bij Unity zelf, als ik een turtorial vond op documentatie online was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem bij mijn camera waarbij hij stuiderde. Om dit op te lossen maak ik gebruik van de .smoothFollow().
-
+- Ik heb veel kleinere foutjes gehad, zoals ergens geen ridgedbody aan hebben of de foute soort collision geactiveerd. Deze waren altijd gemakkelijk om op te lossen.
 #### Educational value
-- welke sustainability leert je game aan
+- Mijn level leert aan dat het van groot belang is om afval op te ruimen en proberen niet veel afval te creeren. Daarnaast leert mijn level ook aan dat we moeten opkomen voor onze natuur! We mogen ons niet zomaar laten doen terwijl grote bedrijven (in het geval van mijn level het leger van Hayatam) onze grondstoffen opzuigen en enkel om geld denken.
 #### Rescources used & Design process
-- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
-- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+- Ik heb gebruik gemaakt van YouTube, meer specefiek veel videos van `Brackeys` en `BurgZerg Arcade`. Ik maakte ook gebruik van online documentatie en forums, vooral voor het oplossen van problemen.
+- Ik heb gebruikt gemaakt van veel assets vanuit de unity store;
+  - `Tree Collection Pack 2` by ALIyerEdon
+  - `Countryside gas station` by VGtiXN
+  - `Oil Tank` by Pixel Games
+  - `4 Industrial barrels` by Vertex Field
+  - `Free Fire VFX - URP` by Vefects
+  - `Outdoor Ground Textures` by A dog's life software
+  - `Terrain Sample Asset Pack` by Unity Technologies
+  - `Star Sparrow Modular Spaceship` by Ebal Studios
+  - ...
 
 ## Mohammed Asad - Level 3
 #### Contribution
@@ -48,7 +55,6 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke sustainability leert je game aan
 #### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
-- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Maximilan Duda - Level 4
 #### Contribution
@@ -58,7 +64,6 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke sustainability leert je game aan
 #### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
-- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Turgay Fatih Yaşer - Level 5
 #### Contribution
@@ -68,4 +73,4 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke sustainability leert je game aan
 #### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
-- Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
+
