@@ -12,6 +12,12 @@ Als je level 3 hebt voltooid, zal er in level 4 een zeer moeilijke opdracht te w
 
 In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten van een rustige cruise door een mooi landschap. De rustgevende vibe van deze level, geïnspireerd door 'I Drive' van Ryan Gosling, is een ideale afsluiter voor een leuke en informatieve game. Laat je niet verleiden door de rust! Je moet namelijk 'Discordia leaves' verzamelen voordat de tijd uitloopt! Als het je lukt om de Discordia leaves te verzamelen en het einde van de level te bereiken, zal je nog de mooie zonsondergang kunnen bekijken voordat onze game wordt beëindigd.
 
+## Design process
+1. *Vooronderzoek en projectdefinitie*
+  - Vergadering gehouden om het project te bespreken, op ideeen te komen en om rollen toe te wijzen.
+  - Een basis project hebben uitgelijnd
+2. *Ontwikkeling en brainstorming*
+3. 
 
 ## Haitam Baqoul - Level 1
 #### Contribution
@@ -19,23 +25,23 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke problemen had je en hoe lost je ze op
 #### Educational value
 - welke sustainability leert je game aan
-#### Rescources used & Design process
+#### Rescources used 
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
 ## Oscar Alexander - Level 2
 #### Contribution
-- Ik heb mijn beziggehouden met het beheer van de projectrepositiry op Github. Ik had meerdere taken hierbij, zoals menesn ondersteunen die iets niet snapte, oplossen van alle merge confilicten, het beheren van branches, de ReadME aanmaken en bijhouden en voor een goede communicatie over alles dat ik heb aangepast, verandered op toegevoegd aan de projectrepo.
+- Ik heb me beziggehouden met het beheer van de projectrepository op Github. Ik had meerdere taken, zoals het ondersteunen van mensen die iets niet begrepen, oplossen van alle merge conflicten, beheren van branches, het aanmaken en bijhouden van de README, en zorgen voor goede communicatie over alles wat ik heb aangepast, veranderd of toegevoegd aan de projectrepo.
 - Ik hield me ook bezig met het proberen te origaniseren van momenten dat we samen kwamen om de vooruitgang te bespreken.
-- Ik heb level 2 gemkaat, met het oog op mooie graphics, een leuke maar niet moeilijk gameplay en leerzaamheid op vlak van sustainability
+- Ik heb level 2 gemkaat, met het oog op mooie graphics, een leuke maar niet moeilijk gameplay en educatief op vlak van sustainability
 ##### Problems
-- Ik ondervond veel problemen bij het gebruik van Github. Ten eerste is Github niet gemaakt om vlot in een Unity project te intgreren. 
-- Het was moelijk om een goede .GitIgnore op te stellen wanneer iederen zeer grote geimporte assets gebruikt, daarbij duurt het ook super lang om the pushen. Je moet elke folder apart pushen, andere wordt het limiet van Github bereikt en faalt de push. Ik heb het gitignore probleem kunnen oplossen door iedereen een ImportedAssets map aan te maken en daarin alle grote geimporte assets tijdelijk zetten, tot ze konden verwijderen wat ze niet meet nodig hadden. 
-- Ik weinig problemen bij Unity zelf, als ik een turtorial vond op documentatie online was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem bij mijn camera waarbij hij stuiderde. Om dit op te lossen maak ik gebruik van de .smoothFollow().
-- Ik heb veel kleinere foutjes gehad, zoals ergens geen ridgedbody aan hebben of de foute soort collision geactiveerd. Deze waren altijd gemakkelijk om op te lossen.
+- Ik ondervond veel problemen bij het gebruik van Github. Github niet gemaakt om vlot te kunnen integreren met een Unity-project.
+- Het was moeilijk om een goede .gitignore op te stellen wanneer iedereen zeer grote geïmporteerde assets gebruikt. Daarnaast duurde het ook heel lang om te pushen. Je moet elke map apart pushen, anders wordt het limiet van Github bereikt en mislukt de push. Ik heb het gitignore-probleem kunnen oplossen door iedereen een "ImportedAssets" map aan te laten maken en daarin alle grote geïmporteerde assets tijdelijk te plaatsen, totdat ze konden verwijderen wat ze niet meer nodig hadden.
+- Ik had weinig problemen met Unity zelf. Als ik een tutorial vond in de online documentatie, was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem met mijn camera die schudde. Om dit op te lossen, maak ik gebruik van de .smoothFollow().
+- Ik heb veel kleinere foutjes gehad, zoals het niet hebben van een Rigidbody ergens of het activeren van de verkeerde soort collision. Deze waren altijd gemakkelijk op te lossen.
 #### Educational value
-- Mijn level leert aan dat het van groot belang is om afval op te ruimen en proberen niet veel afval te creeren. Daarnaast leert mijn level ook aan dat we moeten opkomen voor onze natuur! We mogen ons niet zomaar laten doen terwijl grote bedrijven (in het geval van mijn level het leger van Hayatam) onze grondstoffen opzuigen en enkel om geld denken.
-#### Rescources used & Design process
-- Ik heb gebruik gemaakt van YouTube, meer specefiek veel videos van `Brackeys` en `BurgZerg Arcade`. Ik maakte ook gebruik van online documentatie en forums, vooral voor het oplossen van problemen.
+- Mijn level leert dat het van groot belang is om afval op te ruimen en te proberen niet veel afval te creëren. Daarnaast leert mijn level ook aan dat we moeten opkomen voor onze natuur. We mogen ons niet zomaar laten doen terwijl grote bedrijven (in het geval van mijn level het leger van Hayatam) onze grondstoffen opzuigen en enkel om geld denken.
+#### Rescources used
+- Ik heb gebruik gemaakt van YouTube, meer specefiek veel video's van `Brackeys` en `BurgZerg Arcade`. Ik maakte ook gebruik van online documentatie en forums, vooral voor het oplossen van problemen.
 - Ik heb gebruikt gemaakt van veel assets vanuit de unity store;
   - `Tree Collection Pack 2` by ALIyerEdon
   - `Countryside gas station` by VGtiXN
@@ -53,7 +59,7 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke problemen had je en hoe lost je ze op
 #### Educational value
 - welke sustainability leert je game aan
-#### Rescources used & Design process
+#### Rescources used
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
 ## Maximilan Duda - Level 4
@@ -62,7 +68,7 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke problemen had je en hoe lost je ze op
 #### Educational value
 - welke sustainability leert je game aan
-#### Rescources used & Design process
+#### Rescources used
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
 ## Turgay Fatih Yaşer - Level 5
@@ -71,6 +77,6 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 - welke problemen had je en hoe lost je ze op
 #### Educational value
 - welke sustainability leert je game aan
-#### Rescources used & Design process
+#### Rescources used
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
