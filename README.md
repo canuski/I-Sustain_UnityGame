@@ -13,10 +13,10 @@ Als je level 3 hebt voltooid, zal er in level 4 een zeer moeilijke opdracht te w
 In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten van een rustige cruise door een mooi landschap. De rustgevende vibe van deze level, geïnspireerd door 'I Drive' van Ryan Gosling, is een ideale afsluiter voor een leuke en informatieve game. Laat je niet verleiden door de rust! Je moet namelijk 'Discordia leaves' verzamelen voordat de tijd uitloopt! Als het je lukt om de Discordia leaves te verzamelen en het einde van de level te bereiken, zal je nog de mooie zonsondergang kunnen bekijken voordat onze game wordt beëindigd.
 
 ## Design process
-1. *Vooronderzoek en projectdefinitie*
+##### 1. Vooronderzoek en projectdefinitie
   - Vergadering gehouden om het project te bespreken, op ideeen te komen en om rollen toe te wijzen.
   - Een basis project hebben uitgelijnd
-2. *Ontwikkeling en brainstorming*
+    Ontwikkeling en brainstorming
 3. 
 
 ## Haitam Baqoul - Level 1
@@ -41,7 +41,7 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 #### Educational value
 - Mijn level leert dat het van groot belang is om afval op te ruimen en te proberen niet veel afval te creëren. Daarnaast leert mijn level ook aan dat we moeten opkomen voor onze natuur. We mogen ons niet zomaar laten doen terwijl grote bedrijven (in het geval van mijn level het leger van Hayatam) onze grondstoffen opzuigen en enkel om geld denken.
 #### Rescources used
-- Ik heb gebruik gemaakt van YouTube, meer specefiek veel video's van `Brackeys` en `BurgZerg Arcade`. Ik maakte ook gebruik van online documentatie en forums, vooral voor het oplossen van problemen.
+- Ik heb gebruik gemaakt van YouTube, meer specefiek veel video's van *Brackeys* en *BurgZerg Arcade*. Ik maakte ook gebruik van online documentatie en forums, vooral voor het oplossen van problemen.
 - Ik heb gebruikt gemaakt van veel assets vanuit de unity store;
   - `Tree Collection Pack 2` by ALIyerEdon
   - `Countryside gas station` by VGtiXN
