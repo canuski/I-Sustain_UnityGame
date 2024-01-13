@@ -14,51 +14,51 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 
 
 ## Haitam Baqoul - Level 1
-### Contribution
+#### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
-### Educational value
+#### Educational value
 - welke sustainability leert je game aan
-### Rescources used & Design process
+#### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 - Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Oscar Alexander - Level 2
-### Contribution
+#### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
-### Educational value
+#### Educational value
 - welke sustainability leert je game aan
-### Rescources used & Design process
+#### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 - Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Mohammed Asad - Level 3
-### Contribution
+#### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
-### Educational value
+#### Educational value
 - welke sustainability leert je game aan
-### Rescources used & Design process
+#### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 - Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Maximilan Duda - Level 4
-### Contribution
+#### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
-### Educational value
+#### Educational value
 - welke sustainability leert je game aan
-### Rescources used & Design process
+#### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 - Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
 
 ## Turgay Fatih Yaşer - Level 5
-### Contribution
+#### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
-### Educational value
+#### Educational value
 - welke sustainability leert je game aan
-### Rescources used & Design process
+#### Rescources used & Design process
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 - Zeg hier ook de stappen die je hebt doorlopen om tot je eindresultaat te komen
