@@ -14,7 +14,7 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 
 ## Designproces
 #### 1. Vooronderzoek en projectdefinitie
-  a. Vergadering gehouden om het project te bespreken, op ideeën te komen en om rollen toe te wijzen.
+  - Vergadering gehouden om het project te bespreken, op ideeën te komen en om rollen toe te wijzen.
   b. Basisproject vastgesteld.
 #### 2. Brainstorming
   a. Brainstormsessies gehouden tijdens lab-momenten.
