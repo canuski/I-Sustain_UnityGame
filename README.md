@@ -74,12 +74,22 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 
 ## Mohammed Asad - Level 3
 #### Contribution
-- welke taak, level, componenten heb je aan gewerkt
-- welke problemen had je en hoe lost je ze op
+- Ik heb het team financieel ondersteund bij het verbeteren van de GitHub LFS subscription voor de repository owner. 
+- Ik heb level 3 ontworpen met educatieve doeleinden in gedachten, terwijl ik de spelers nog steeds uitdaag met boeiende taken.
+##### Problems
+- Bij het creëren van eigen assets in Blender ontdekte ik dat de hoeveelheid polygonen invloed heeft op de prestaties van mijn gameplays, net zoals de bestandsgrootte aanzienlijk toeneemt als je Blender-assets niet correct exporteert naar een .fbx-bestand.
+- De bestandsgrootte heeft invloed op de GitHub-repo, aangezien je slechts 2 GB LFS bandbreedte per maand gratis hebt.
 #### Educational value
-- welke sustainability leert je game aan
+- Ik heb een level 3 gecreëerd waarin spelers de gevolgen van menselijke hebzucht, oorlogen en financiële problemen ervaren. In dit level navigeer je door bossen, ontwijk je landmijnen, verzamel je munten voor zuivere energie en leer je dat energiezuinigheid kostbaar is. Tegelijkertijd tracht ik de spelers aan te moedigen om zoveel mogelijk resources te recyclen en de natuur op te ruimen, terwijl ik benadruk dat zuivere energie een hoge prijs heeft. Daarnaast leg ik uit dat oorlogen en corporate greed invloed hebben op de levensomstandigheden van komende generaties.
 #### Rescources used
-- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+- De meerderheid van mijn assets zijn zelf gemaakt zoals:
+  - Windmolens
+  - Speler
+  - Enemies
+  - Landmijnen
+  - Coins
+  - Checkpoints
+- De spelers krijgen extra uitleg via een AI-voice die de huidige situatie van het level uitlegt.
 
 ## Maximilan Duda - Level 4
 #### Contribution
