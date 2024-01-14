@@ -1,6 +1,6 @@
 # Documentatie Project
 ## Introductie
-Welkom bij onze game. Deze game heet 'I Sustain' en bevindt zich in een wereld die 'Discordia' heet. Het is in Unity gemaakt en de scripts worden in C# geprogrammeerd.
+Welkom bij onze game. Deze game heet 'I Sustain' en bevindt zich in een wereld die 'Discordia' heet.
 
 Je zal in het eerste level zien hoe Discordia is vernietigd en zelf kunnen ervaren hoe het is om in een wereld van verwoesting en anti-sustainability te zijn.
 
@@ -30,6 +30,13 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 #### 5. Definiteive documentatie
   - README en desgin document opstellen en uittypen
   - Als er nog updates gebeuren, ervoor zorgen dat de documentatie juist wordt aangepast
+
+## Technische implementatie
+De game is gebouwd in Unity 2022.3.10f1. We gebruiken Visual Studio om onze scripts in C# te programmeren. Sommige teamleden hebben gebruik gemaakt van Blender om bepaalde dingen te ontwerpen. Deze .blend bestanden worden geëxporteerd als .fbx files. Alle teamleden maken gebruik van assets uit de Unity Asset Store [https://assetstore.unity.com/]. Hieronder wordt per teamlid meer uitleg gegeven over het gebruik van specifieke assets.
+
+Voor het toevoegen van audio gebruiken we websites zoals [https://freesound.org/] en open source software zoals NewPipe [https://github.com/TeamNewPipe/NewPipe/]. We maken gebruik van de URP (Universal Render Pipeline) pipeline. Die beidt optimale prestaties, is gemakkelijk om te gebruiken voor cross-platform implementaties, ideaal is voor VR en AR programmering en eenvoudig te gebruiken is. We hebben veel gebruik gemaakt van de built-in pipeline -> URP converter die standaard aanwezig is in Unity 2022.3.10f1.
+
+Het is de bedoeling dat onze game op Windows draait: voor andere platforms bieden we geen ondersteuning en hebben we geen mogelijkheid om te testen.
 
 ## Haitam Baqoul - Level 1
 #### Contribution
