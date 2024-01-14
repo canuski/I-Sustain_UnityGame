@@ -90,7 +90,7 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 #### Rescources used
 - zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
-## Turgay Fatih Yaşer - Level 5
+## Turgay Fatih Yaşar - Level 5
 #### Contribution
 - welke taak, level, componenten heb je aan gewerkt
 - welke problemen had je en hoe lost je ze op
