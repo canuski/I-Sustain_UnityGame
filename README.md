@@ -105,4 +105,11 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 - Ik heb paar youtube tutorials gekeken die mij hebben geholpen bij themas dat ik niet volledig begreep. Zoals lighting.
 - Ik heb in totaal rond de 50 assets gebruikt. Ik heb veel assets gebruikt want mijn game gaat over springen van 1 object naar een andere. Om dit nog interessanter te maken maak ik gebruik van verschillende assets zodat elke sprong uniek is.
 
-
+## turgay - Level 5
+#### Contribution
+- welke taak, level, componenten heb je aan gewerkt
+- welke problemen had je en hoe lost je ze op
+#### Educational value
+- welke sustainability leert je game aan
+#### Rescources used 
+- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
