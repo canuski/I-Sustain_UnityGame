@@ -9,7 +9,7 @@ public class CheckUpsidedown : MonoBehaviour
     {
         if (Vector3.Dot(transform.up, Vector3.down) > 0)
         {
-            SceneManager.LoadScene("Level_5");
+            SceneManager.LoadScene("Level5");
         }
 
     }

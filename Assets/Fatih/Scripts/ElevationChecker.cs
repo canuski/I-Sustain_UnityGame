@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class ElevationChecker : MonoBehaviour
 {
     public float respawnElevation = 90f;
-    public string levelToLoad = "Level_5";
+    public string levelToLoad = "Level5";
 
     void Update()
     {

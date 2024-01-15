@@ -26,10 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/All_Scenes/Faith_Level5/Level5.unity
     guid: 485fabd8fabc2234f8cc013d2e913ef2
-  - enabled: 0
+  - enabled: 1
     path: Assets/All_Scenes/Faith_Level5/Game_Over.unity
     guid: ecf14a3f169954644ba75f489f0d3679
-  - enabled: 0
+  - enabled: 1
     path: Assets/All_Scenes/Faith_Level5/Credits.unity
     guid: 765a6016e77468548bd1c53b9f5e9dbe
   m_configObjects: {}

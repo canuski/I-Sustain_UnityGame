@@ -8,7 +8,7 @@ public class GameOver : MonoBehaviour
 {
     public void RestartButton()
     {
-        SceneManager.LoadScene("Level_5");
+        SceneManager.LoadScene("Level5");
     }
     public void ExitButton() 
     {
