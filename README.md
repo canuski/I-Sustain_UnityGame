@@ -41,23 +41,24 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 ## Haitam Baqoul - Level 1
 #### Contribution
 - Ik heb level 1 gemaakt. Mijn level is meer een show case in plaats van een echte game. Er is wel interactie in de game.
-#### Problemen
-- Ik had veel problemen bij het vinden van deftige assets sinds dat meeste geld kosten. Daar had ik meeste van mijn tijd ingestopt.
-- Met github werken was grootste probleem. Ik moest vaak opnieuw beginnen omdat github mijn folder heeft vernield.
+##### Problems
+- Ik had veel problemen bij het vinden van deftige assets sinds dat de meeste geld kosten. Daar heb ik meeste van mijn tijd ingestopt.
+- Met GitHub werken was het grootste probleem. Ik moest vaak opnieuw beginnen omdat GitHub mijn folder had vernield.
 - Het is behoorlijk uitdagend om een eerste level te bedenken dat een sterk verhalend element bevat.
 #### Educational value
 - Mijn game plaatst spelers in de rol van de hoofdoorzaak van wereldvernietiging, waarbij ze via hun keuzes de planeet naar de rand van instorting sturen. Door bewustwording te creëren rond milieu-impact, confronteert de game spelers met de gevolgen van niet-duurzame beslissingen en dient als een virtuele spiegel om aandacht te vestigen op echte wereldproblemen op het gebied van milieu en duurzaamheid.
 #### Rescources used 
 - Veel youtube
-- Terrain Tools by mgear
-- Countryside gas station by VGtiXN
-- Single Detailed Truck by VIS Games
-- Outdoor Ground Textures by A dog's life software
-- PBR RPG/FPS Game Assets (Industrial Set v1.0) by Dmitrii Kutsenko
-- Oil Tank by Pixel Games
-- Truck low poly by SR Studios Kerala
-- AllSky Free - 10 Sky / Skybox Set by rpgwhitelock
-- Customizable Road Material/Shader by GeeKo
+- Unity assets:
+  - `Terrain Tools` by mgear
+  - `Countryside gas station` by VGtiXN
+  - `Single Detailed Truck` by VIS Games
+  - `Outdoor Ground Textures` by A dog's life software
+  - `PBR RPG/FPS Game Assets (Industrial Set v1.0)` by Dmitrii Kutsenko
+  - `Oil Tank` by Pixel Games
+  - `Truck low poly` by SR Studios Kerala
+  - `AllSky Free - 10 Sky / Skybox Set` by rpgwhitelock
+  - `Customizable Road Material/Shader` by GeeKo
 
 
 ## Oscar Alexander - Level 2
