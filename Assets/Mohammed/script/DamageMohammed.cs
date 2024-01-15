@@ -31,7 +31,7 @@ public class DamageMohammed : MonoBehaviour
     {
         if (continuousDamage)
         {
-            if (collision.gameObject.tag == "Player" && collision.gameObject.GetComponent<Health>() != null)
+            if (collision.gameObject.tag == "Player" && collision.gameObject.GetComponent<HealthMohammed>() != null)
             {
                 if (Time.time - savedTime >= continuousTimeBetweenHits)
                 {
@@ -44,9 +44,9 @@ public class DamageMohammed : MonoBehaviour
 
     void DealDamage(GameObject target)
     {
-        if (target.tag == "Player" && target.GetComponent<Health>() != null)
+        if (target.tag == "Player" && target.GetComponent<HealthMohammed>() != null)
         {
-            target.GetComponent<Health>().ApplyDamage(damageAmount);
+            target.GetComponent<HealthMohammed>().ApplyDamage(damageAmount);
         }
     }
 }

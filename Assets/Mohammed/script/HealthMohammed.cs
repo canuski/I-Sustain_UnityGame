@@ -20,7 +20,7 @@ public class HealthMohammed : MonoBehaviour
     void Start()
     {
         // Find the Canvas text using the tag
-        GameObject canvasTextObject = GameObject.FindGameObjectWithTag("CurrentHP");
+        GameObject canvasTextObject = GameObject.FindGameObjectWithTag("Currenthp");
 
         // Check if the Canvas text object exists and has the Text component
         if (canvasTextObject != null)

@@ -8,15 +8,13 @@ public class RotateAndSwitchOnKeyPress : MonoBehaviour
     public GameObject showElement;   // UI element to show when the player is close
     public float closeDistance = 3f; // Distance threshold to consider the player "close"
     public AudioClip activationSound; // Sound played on activation
-
     private bool isActivated = false;
-
     // Additional properties
     public Vector3 targetRotation = new Vector3(60f, 0f, 0f);
     public GameObject objectToDestroy;
     public GameObject objectToActivate;
     public string scoreboardTag = "scoreboard"; // Tag of the Canvas Text
-    public int targetScore = 5; // Target score to trigger actions
+    public int targetScore = 40; // Target score to trigger actions
 
     void Update()
     {
@@ -43,6 +41,7 @@ public class RotateAndSwitchOnKeyPress : MonoBehaviour
                     {
                         AudioSource.PlayClipAtPoint(activationSound, transform.position);
                     }
+                    // Rotate the assigned object in the Z-axis continuously
 
                     // Set isActivated to true to prevent further activations
                     isActivated = true;
@@ -121,7 +120,7 @@ public class RotateAndSwitchOnKeyPress : MonoBehaviour
                     int currentScore;
                     if (int.TryParse(textComponent.text, out currentScore))
                     {
-                        return currentScore == targetScore;
+                        return currentScore >= targetScore;
                     }
                     else
                     {
