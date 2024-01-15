@@ -9,11 +9,11 @@ public class PauseMenuMohammed : MonoBehaviour
     public void Pause()
     {
         pauseMenu.SetActive(true);
-        Time.timeScale =0;
+        Time.timeScale = 0;
     }
     public void Home()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene(0);
         Time.timeScale = 1;
     }
     public void Resume()

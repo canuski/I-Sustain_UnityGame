@@ -6,7 +6,7 @@ public class NumberAudioPlayer : MonoBehaviour
     public Text canvasText;
     public AudioClip audioClip;
 
-    private int previousNumber;
+    public int previousNumber=5;
 
     void Start()
     {
