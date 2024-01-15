@@ -93,19 +93,16 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 
 ## Maximilan Duda - Level 4
 #### Contribution
-- welke taak, level, componenten heb je aan gewerkt
-- welke problemen had je en hoe lost je ze op
+•	Ik heb level 4 gemaakt, deze level is een platformer dat de speler uitdaagt wegens zijn moeilijkheidsgraad.
+#### Problems
+•	Ik had mijn project eerst gemaakt als een 3d project maar later hadden wij besloten om URP te gebruiken. Dit zorgde ervoor dat mijn texturen niet wouden werken maar gelukkig hadden wij een oplossing hiervoor gevonden.
+•	Tijdens het toevoegen van een nieuwe scene werden de schaduwen van mijn eerste scene super donker. Ik probeerde dit op te lossen in de eerste scene maar ik had het uiteindelijk opgelost in mijn settings.
+•	Sommige assets dat ik had ge import van de unity store wouden niet werken. Dit heeft zichzelf opgelost nadat ik de volgende dag verder werkte.
+•	Soms wou de code dat ik schreef niet attachen aan een gameobject maar eens ik lijn verwijderde uit de code werkte het wel. (waarschijnlijk een bug)
 #### Educational value
-- welke sustainability leert je game aan
+•	Terwijl spelers door de boeiende level van "Junk Jump" navigeren, moeten ze springen op verschillende objecten en ondertussen verspreide Junk Parts onderweg verzamelen. Deze ogenschijnlijk willekeurige onderdelen zijn strategisch geplaatst om de diverse uitdagingen van afval en vervuiling op onze planeet te simuleren. Het verzamelen van de Junk Parts tijdens het spel dient als een metafoor voor het belang van afvalbeheer. Door elementen van milieubewustzijn op te nemen, moedigt "Junk Jump" spelers aan om na te denken over hun eigen consumptiepatronen en de impact van weggegooide materialen op de planeet. Het spel introduceert slimme recyclinguitdagingen, waarbij spelers de verzamelde Junk Parts moeten sorteren en recyclen om verder te komen. Deze interactieve aspecten leren niet alleen het belang van recycling, maar benadrukken ook hoe hergebruik van materialen kan bijdragen aan een schonere en duurzamere omgeving. Aan het einde van het spel worden spelers beloond met een elektrische auto gebouwd met de gerecyclede onderdelen die ze hebben verzameld. Deze laatste fase dient als een krachtige visuele representatie van de positieve impact die recycling kan hebben op het creëren van duurzame oplossingen, zoals elektrische voertuigen die de uitstoot van koolstof verminderen.
 #### Rescources used
-- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
+•	Ik heb paar youtube tutorials gekeken die mij hebben geholpen bij themas dat ik niet volledig begreep. Zoals lighting.
+•	Ik heb in totaal rond de 50 assets gebruikt. Ik heb veel assets gebruikt want mijn game gaat over springen van 1 object naar een andere. Om dit nog interessanter te maken maak ik gebruik van verschillende assets zodat elke sprong uniek is.
 
-## Turgay Fatih Yaşar - Level 5
-#### Contribution
-- welke taak, level, componenten heb je aan gewerkt
-- welke problemen had je en hoe lost je ze op
-#### Educational value
-- welke sustainability leert je game aan
-#### Rescources used
-- zet hier de dingen die je hebt gebruikt:youtube, assets die je gebruikt, turtorials,...
 
