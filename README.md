@@ -94,8 +94,8 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 ## Maximilan Duda - Level 4
 #### Contribution
 - Ik heb level 4 gemaakt, deze level is een platformer dat de speler uitdaagt wegens zijn moeilijkheidsgraad.
-#### Problems
-- Ik had mijn project eerst gemaakt als een 3d project maar later hadden wij besloten om URP te gebruiken. Dit zorgde ervoor dat mijn texturen niet wouden werken maar gelukkig hadden wij een oplossing hiervoor gevonden.
+##### Problems
+- Ik had mijn project eerst gemaakt met de built-in pipeline maar later hadden wij besloten om URP te gebruiken. Dit zorgde ervoor dat mijn texturen niet wouden werken maar gelukkig hadden wij een oplossing hiervoor gevonden.
 - Tijdens het toevoegen van een nieuwe scene werden de schaduwen van mijn eerste scene super donker. Ik probeerde dit op te lossen in de eerste scene maar ik had het uiteindelijk opgelost in mijn settings.
 - Sommige assets dat ik had ge import van de unity store wouden niet werken. Dit heeft zichzelf opgelost nadat ik de volgende dag verder werkte.
 - Soms wou de code dat ik schreef niet attachen aan een gameobject maar eens ik lijn verwijderde uit de code werkte het wel. (waarschijnlijk een bug)
