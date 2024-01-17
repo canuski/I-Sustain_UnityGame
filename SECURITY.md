@@ -11,5 +11,5 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, contact one of the developers
+To report a vulnerability, contact one of the developers.
 
