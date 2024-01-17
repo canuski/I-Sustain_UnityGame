@@ -19,7 +19,7 @@ In het laatste level, level 5, is er een rustige afsluiter. Je kan hier genieten
 #### 2. Brainstorming
   - Brainstormsessies gehouden tijdens lab-momenten.
   - Bepaal de haalbaarheid binnen de toegewezen tijd.
-#### 3. Definiteif ontwerp
+#### 3. Definitief ontwerp
   - Tijdens de laatste lables een grondig idee hebben van het project en hoe het er gaat uit zien.
   - Elk teamlid een level toewijzen.
   - Communicatiemiddelen opgezet (discord groep).
@@ -71,7 +71,7 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 - Het was moeilijk om een goede .gitignore op te stellen wanneer iedereen zeer grote geïmporteerde assets gebruikt. Daarnaast duurde het ook heel lang om te pushen. Je moet elke map apart pushen, anders wordt het limiet van Github bereikt en mislukt de push. Ik heb het gitignore-probleem kunnen oplossen door iedereen een "ImportedAssets" map aan te laten maken en daarin alle grote geïmporteerde assets tijdelijk te plaatsen, totdat ze konden verwijderen wat ze niet meer nodig hadden.
 - Ik had weinig problemen met Unity zelf. Als ik een tutorial vond in de online documentatie, was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem met mijn camera die schudde. Om dit op te lossen, maak ik gebruik van de .smoothFollow().
 - Ik heb veel kleinere foutjes gehad, zoals het niet hebben van een Rigidbody ergens of het activeren van de verkeerde soort collision. Deze waren altijd gemakkelijk op te lossen.
-- Sommige groepleden weigerden te communiceren en priotiseerden andere vakken
+- Sommige groepsleden weigerden te communiceren en prioriteerden andere vakken.
 #### Educational value
 - Mijn level leert dat het van groot belang is om afval op te ruimen en te proberen niet veel afval te creëren. Daarnaast leert mijn level ook aan dat we moeten opkomen voor onze natuur. We mogen ons niet zomaar laten doen terwijl grote bedrijven (in het geval van mijn level het leger van Hayatam) onze grondstoffen opzuigen en enkel om geld denken.
 #### Rescources used
