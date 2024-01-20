@@ -67,7 +67,7 @@ Het is de bedoeling dat onze game op Windows draait: voor andere platforms biede
 - Ik hield me ook bezig met het proberen te origaniseren van momenten dat we samen kwamen om de vooruitgang te bespreken.
 - Ik heb level 2 gemkaat, met het oog op mooie graphics, een leuke maar niet moeilijk gameplay en educatief op vlak van sustainability
 ##### Problems
-- Ik ondervond veel problemen bij het gebruik van Github. Github niet gemaakt om vlot te kunnen integreren met een Unity-project.
+- Ik ondervond veel problemen bij het gebruik van Github. Github is niet gemaakt om vlot te kunnen integreren in een Unity-project.
 - Het was moeilijk om een goede .gitignore op te stellen wanneer iedereen zeer grote geïmporteerde assets gebruikt. Daarnaast duurde het ook heel lang om te pushen. Je moet elke map apart pushen, anders wordt het limiet van Github bereikt en mislukt de push. Ik heb het gitignore-probleem kunnen oplossen door iedereen een "ImportedAssets" map aan te laten maken en daarin alle grote geïmporteerde assets tijdelijk te plaatsen, totdat ze konden verwijderen wat ze niet meer nodig hadden.
 - Ik had weinig problemen met Unity zelf. Als ik een tutorial vond in de online documentatie, was het altijd gemakkelijk om mee te volgen en te leren. Ik had wel een probleem met mijn camera die schudde. Om dit op te lossen, maak ik gebruik van de .smoothFollow().
 - Ik heb veel kleinere foutjes gehad, zoals het niet hebben van een Rigidbody ergens of het activeren van de verkeerde soort collision. Deze waren altijd gemakkelijk op te lossen.
