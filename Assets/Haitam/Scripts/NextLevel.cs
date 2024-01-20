@@ -3,19 +3,15 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour
 {
     public GameObject questionText;
+    public Collider triggerCollider;
+
     void Start()
     {
-        
         questionText.SetActive(false);
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Tab))
-        {
-            questionText.SetActive(true);
-        }
-
         if (questionText.activeSelf)
         {
             if (Input.GetKeyDown(KeyCode.Y))
@@ -29,8 +25,24 @@ public class LevelManager : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Trigger"))
+        {
+            questionText.SetActive(true);
+        }
+    }
+
+    void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Trigger"))
+        {
+            questionText.SetActive(false);
+        }
+    }
+
     void LoadNextLevel()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex + 1);
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Oscar_level2");
     }
 }

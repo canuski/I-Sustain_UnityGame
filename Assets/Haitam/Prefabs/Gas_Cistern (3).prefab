@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7336028853833366740}
   - component: {fileID: 4767684822880487454}
   - component: {fileID: 8795381055935718034}
+  - component: {fileID: 769434733229674121}
   m_Layer: 0
   m_Name: Gas_Cistern (3)
   m_TagString: Untagged
@@ -106,3 +107,24 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -235858194129920450, guid: d19bb532cea21e34a96f08a6d24f49cc, type: 3}
+--- !u!65 &769434733229674121
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6425163761744587211}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 6.3968573, y: 2.3699467, z: 1.8456852}
+  m_Center: {x: -0.0028125048, y: 1.1757404, z: 0.0044538677}

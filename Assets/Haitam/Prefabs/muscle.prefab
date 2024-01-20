@@ -306,6 +306,7 @@ GameObject:
   - component: {fileID: 8763584228090276987}
   - component: {fileID: 8101122022082414211}
   - component: {fileID: 5830069471328059578}
+  - component: {fileID: 5072122069658325809}
   m_Layer: 0
   m_Name: muscle
   m_TagString: Untagged
@@ -400,11 +401,11 @@ MeshCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 823ed423ae6ba0d4589ddb8fe51e7f14, type: 3}
 --- !u!54 &5830069471328059578
@@ -434,6 +435,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &5072122069658325809
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2289318359324538320}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.4299839, y: 1.3140848, z: 5.6425805}
+  m_Center: {x: 0.00000005960464, y: 0.8365443, z: 0.13018547}
 --- !u!1 &2329523078681853564
 GameObject:
   m_ObjectHideFlags: 0

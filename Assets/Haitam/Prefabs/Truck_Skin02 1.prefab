@@ -551,7 +551,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 6.032876, y: 7.866477, z: 24.593437}
+  m_Size: {x: 7, y: 8, z: 26}
   m_Center: {x: -0.74183893, y: 6.575152, z: 0.6545634}
 --- !u!64 &7660757093204066053
 MeshCollider:
