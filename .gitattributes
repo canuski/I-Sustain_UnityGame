@@ -1,4 +1,0 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
-Assets/Audio/*.{wav,mp3} filter=lfs diff=lfs merge=lfs -text
-Assets/LargeBinaries/*.* filter=lfs diff=lfs merge=lfs -text
