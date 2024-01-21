@@ -87,7 +87,7 @@ public class TankStationSpawner : MonoBehaviour
         // Bijwerken van de tekst met het aantal verzamelde collectibles
         if (collectedText != null)
         {
-            collectedText.text = "Collected collectibles: " + collectedCollectibles.Count+"\nPress T after you have collected 3 collectibles";
+            collectedText.text = "Collected collectables: " + collectedCollectibles.Count+"\nPress T after you have collected 3 collectables";
         }
     }
 }

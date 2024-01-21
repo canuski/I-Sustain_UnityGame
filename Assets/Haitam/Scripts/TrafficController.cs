@@ -8,11 +8,8 @@ public class TrafficController : MonoBehaviour
     public Transform spawnPointsParent;
     public float vehicleSpeed = 10f;
     public float spawnInterval = 5f;
-    public float truckSpawnDelay = 1f; // Add a 2-second delay before spawning the truck
-
+    public float truckSpawnDelay = 1f; // 1f delay dus 1 sec
     private Transform[] spawnPoints;
-
-    // Nieuw toegevoegd
     public Transform endPoint;
 
     void Start()
@@ -28,9 +25,9 @@ public class TrafficController : MonoBehaviour
         while (true)
         {
             SpawnCar();
-            yield return new WaitForSeconds(truckSpawnDelay); // Add delay before spawning the truck
+            yield return new WaitForSeconds(truckSpawnDelay); // Kleine delay voor dat nieuwe spawnt
             SpawnTruck();
-            yield return new WaitForSeconds(spawnInterval - truckSpawnDelay); // Adjust the delay for the next iteration
+            yield return new WaitForSeconds(spawnInterval - truckSpawnDelay); // kleine delay voor de volgende iteratie
         }
     }
 
