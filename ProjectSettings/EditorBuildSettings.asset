@@ -5,16 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/All_Scenes/Start_Scene/Menu.unity
     guid: 4b8a5e0647a1f0448abfe12c569fb13d
   - enabled: 1
     path: Assets/All_Scenes/Haitam_Level1/Level1Haitam.unity
     guid: 9596b197d6bc4f349b401836d286bd73
-  - enabled: 0
+  - enabled: 1
     path: Assets/All_Scenes/Oscar_Level2/Tasks.unity
     guid: 80d966cea313a2a4bb19d3230992be02
-  - enabled: 0
+  - enabled: 1
     path: Assets/All_Scenes/Oscar_Level2/Level2.unity
     guid: 8029d48a08d47e24591c709a2633c80c
   - enabled: 1
