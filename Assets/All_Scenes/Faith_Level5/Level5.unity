@@ -536,6 +536,16 @@ PrefabInstance:
       propertyPath: timerController
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3375,6 +3385,16 @@ PrefabInstance:
         type: 3}
       propertyPath: timerController
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7946,6 +7966,16 @@ PrefabInstance:
       propertyPath: timerController
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8384,6 +8414,16 @@ PrefabInstance:
         type: 3}
       propertyPath: timerController
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13736,6 +13776,16 @@ PrefabInstance:
       propertyPath: timerController
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14123,6 +14173,16 @@ PrefabInstance:
         type: 3}
       propertyPath: timerController
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18284,6 +18344,16 @@ PrefabInstance:
         type: 3}
       propertyPath: timerController
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137688353879336067, guid: f69d300a0301a3d44a763b96608218bb,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
