@@ -1,12 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
     public GameObject questionText;
-    public BoxCollider triggerCollider;
-
     private bool playerInTrigger = false;
-    private bool collisionOccurred = false;
 
     void Start()
     {
@@ -18,7 +16,7 @@ public class LevelManager : MonoBehaviour
     {
         Debug.Log("Update method is called.");
 
-        if (playerInTrigger && collisionOccurred)
+        if (playerInTrigger)
         {
             if (Input.GetKeyDown(KeyCode.Y))
             {
@@ -35,7 +33,7 @@ public class LevelManager : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player") && !collisionOccurred)
+        if (other.CompareTag("Trigger"))
         {
             Debug.Log("Player entered the trigger.");
             questionText.SetActive(true);
@@ -45,7 +43,7 @@ public class LevelManager : MonoBehaviour
 
     void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Player") && playerInTrigger)
+        if (other.CompareTag("Trigger"))
         {
             Debug.Log("Player exited the trigger.");
             questionText.SetActive(false);
@@ -56,6 +54,13 @@ public class LevelManager : MonoBehaviour
     void LoadNextLevel()
     {
         Debug.Log("Loading next level.");
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Oscar_level2");
+
+        // Zoek het huidige niveau in de build settings
+        Scene currentScene = SceneManager.GetActiveScene();
+        int currentBuildIndex = currentScene.buildIndex;
+
+        // Ga naar het volgende niveau in de build settings
+        int nextBuildIndex = (currentBuildIndex + 1) % SceneManager.sceneCountInBuildSettings;
+        SceneManager.LoadScene(nextBuildIndex);
     }
 }
