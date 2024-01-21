@@ -9480,7 +9480,8 @@ PrefabInstance:
       value: StarSparrow4 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5674955409612290994, guid: d0bdc9a9ef1ca3f46a7988b0841dbc14, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0bdc9a9ef1ca3f46a7988b0841dbc14, type: 3}
