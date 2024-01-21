@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public static class EventManager
+public static class EventManager // allows for different parts of code to receive/send events
 {
     public static event UnityAction TimerStart;
     public static event UnityAction TimerStop;

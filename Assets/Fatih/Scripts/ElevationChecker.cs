@@ -16,9 +16,6 @@ public class ElevationChecker : MonoBehaviour
 
     void Respawn()
     {
-        // You can add additional logic here if needed, e.g., play a respawn animation.
-
-        // Reload the current scene or load a specific level.
         SceneManager.LoadScene("Game_Over");
     }
 }

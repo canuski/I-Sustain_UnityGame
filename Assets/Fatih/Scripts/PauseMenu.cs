@@ -11,10 +11,10 @@ public class PauseMenu : MonoBehaviour
 
     void Start()
     {
-        backgroundMusicAudioSource = GameObject.Find("BackgroundMusic").GetComponent<AudioSource>();
+        backgroundMusicAudioSource = GameObject.Find("BackgroundMusic").GetComponent<AudioSource>(); // find gameobject with "BackgroundMusic" and get component
     }
 
-    void Update()
+    void Update() // if esc key is pressed pause if not resume
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
@@ -31,8 +31,8 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
-        PauseMenuUI.SetActive(false);
-        Time.timeScale = 1f;
+        PauseMenuUI.SetActive(false); // don't make the UI appear
+        Time.timeScale = 1f; // resume
         GameIsPaused = false;
 
         backgroundMusicAudioSource.UnPause();
@@ -40,13 +40,13 @@ public class PauseMenu : MonoBehaviour
 
     void Pause()
     {
-        PauseMenuUI.SetActive(true);
-        Time.timeScale = 0f;
+        PauseMenuUI.SetActive(true); // make UI appear
+        Time.timeScale = 0f; // pause
         GameIsPaused = true;
 
         backgroundMusicAudioSource.Pause();
 
-        PlayerPrefs.SetInt("musicPaused", 1);
+        PlayerPrefs.SetInt("musicPaused", 1); // save preference meaning music is paused
         PlayerPrefs.Save();
     }
 

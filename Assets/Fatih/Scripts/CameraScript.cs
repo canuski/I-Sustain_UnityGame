@@ -12,9 +12,9 @@ public class CameraScript : MonoBehaviour
 
     void Update()
     {
-        yaw += speedH * Input.GetAxis("Mouse X");
-        pitch -= speedV * Input.GetAxis("Mouse Y");
+        yaw += speedH * Input.GetAxis("Mouse X"); // retrieves horizontal movement of mouse and assigns to yaw value
+        pitch -= speedV * Input.GetAxis("Mouse Y"); // retrieves vertical movement of mouse and assigns to pitch value
 
-        transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
+        transform.eulerAngles = new Vector3(pitch, yaw, 0.0f); // update camera's rotation (x,y,z)
     }
 }

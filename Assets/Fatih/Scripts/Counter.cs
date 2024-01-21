@@ -8,25 +8,25 @@ public class Counter : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player")) // if other collider has "Player" tag
         {
-            GameObject collectible = gameObject; // Assuming the collectible is the GameObject with the Counter script
-            Destroy(collectible); // Or you can disable it as needed
-            scoreValue += 1;
+            GameObject collectible = gameObject; // collectible = object script is attached to
+            Destroy(collectible);
+            scoreValue += 1; // update score after destroying
             SetScore();
 
             // Access the TimerController script and call CollectCollectible method
             Timer timerController = other.GetComponent<Timer>();
             if (timerController != null)
             {
-                timerController.CollectCollectible(collectible);
-                Debug.Log("CollectCollectible called from Counter! Score: " + scoreValue);
+                timerController.CollectCollectible(collectible); // calls this method only if the timercontroller exists
+                Debug.Log("Score: " + scoreValue);
             }
         }
     }
 
     void SetScore()
     {
-        score.text = $"{scoreValue}";
+        score.text = $"{scoreValue}/10";
     }
 }

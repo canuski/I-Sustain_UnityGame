@@ -9,16 +9,16 @@ public class Timer : MonoBehaviour
     private bool isTimerRunning = true;
 
     public Text timerText;
-    public string collectibleTag = "Collectible"; // Set this to the tag you've assigned to collectibles
+    public string collectibleTag = "Collectible";
 
     void Start()
     {
         currentTime = initialTime;
         UpdateTimerText();
-        InvokeRepeating("UpdateTimer", 1f, 1f);
+        InvokeRepeating("UpdateTimer", 1f, 1f); // invoke method repeatedly with 1 sec delay
     }
 
-    void UpdateTimer()
+    void UpdateTimer() // checks wether time is up or not
     {
         if (isTimerRunning)
         {
@@ -29,15 +29,15 @@ public class Timer : MonoBehaviour
                 currentTime = 0f;
                 isTimerRunning = false;
 
-                Debug.Log("Game Over! Reloading the scene...");
+                Debug.Log("Game Over!");
                 SceneManager.LoadScene("Game_Over");
             }
 
-            UpdateTimerText();
+            UpdateTimerText(); // keep displaying all the changes
         }
     }
 
-    void UpdateTimerText()
+    void UpdateTimerText() // logic to update timer in my desired format
     {
         if (timerText != null)
         {
@@ -50,13 +50,13 @@ public class Timer : MonoBehaviour
 
     public void CollectCollectible(GameObject collectible)
     {
-        currentTime += 20f;
+        currentTime += 20f; // wehn collectible is collected +20sec
         UpdateTimerText();
 
         if (collectible != null)
         {
-            collectible.SetActive(false);
-            Debug.Log("Collectible collected! Timer updated. Current Time: " + currentTime);
+            collectible.SetActive(false); // make collectible dissapear
+            Debug.Log("Collectible collected! Current Time: " + currentTime);
         }
     }
 }
