@@ -8,6 +8,16 @@ TagManager:
   - Enemy
   - Trigger
   - Collectible
+  - death
+  - ShowElement
+  - Currenthp
+  - Mini_map
+  - switch_on
+  - Rotate
+  - Player_data
+  - Destroyed_cars
+  - scoreboard
+  - ScoreBoards
   layers:
   - Default
   - TransparentFX
