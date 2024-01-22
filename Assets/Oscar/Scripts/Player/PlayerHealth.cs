@@ -52,7 +52,7 @@ public class Health : MonoBehaviour
     void Respawn()
     {
         // scene loaden
-        SceneManager.LoadScene("Scene-1");
+        SceneManager.LoadScene("Level2");
     }
 
     void Die()
