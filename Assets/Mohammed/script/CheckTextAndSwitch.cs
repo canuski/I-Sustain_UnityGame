@@ -32,7 +32,7 @@ public class CheckTextAndSwitch : MonoBehaviour
             if (int.TryParse(destroyedCarsText.text, out int destroyedCarsCount))
             {
                 // Check if the count reaches 11
-                if (destroyedCarsCount >= 40)
+                if (destroyedCarsCount >= 20)
                 {
                     // Destroy the specified game object
                     DestroyObject();

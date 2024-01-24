@@ -223,9 +223,10 @@ GameObject:
   - component: {fileID: 5218244062276163763}
   - component: {fileID: 5228644129742490907}
   - component: {fileID: 2930079754841220305}
+  - component: {fileID: 1833431511398216884}
   m_Layer: 0
   m_Name: SM_Veh_Car_Medium_01
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -345,6 +346,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.3655212, y: 1.6393872, z: 4.968236}
   m_Center: {x: 0, y: 1.0645186, z: 0.041665196}
+--- !u!114 &1833431511398216884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5218244062278191009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d356d4918fcf46d4abcd616aeb326774, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionText: {fileID: 0}
 --- !u!1 &5218244062278216253
 GameObject:
   m_ObjectHideFlags: 0

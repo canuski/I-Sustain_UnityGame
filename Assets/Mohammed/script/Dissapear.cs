@@ -36,7 +36,7 @@ public class Disappear : MonoBehaviour
             Destroy(gameObject);
 
             // Find the GameObject with the "scoreboard" tag
-            GameObject scoreboard = GameObject.FindGameObjectWithTag("scoreboard");
+            GameObject scoreboard = GameObject.FindGameObjectWithTag("ScoreBoards");
 
             // Check if the scoreboard GameObject is not null
             if (scoreboard != null)

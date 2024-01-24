@@ -3,8 +3,8 @@ using UnityEngine.UI;
 
 public class CheckScoreboard : StateMachineBehaviour
 {
-    public string scoreboardTag = "scoreboard"; // Tag of the Canvas Text
-    public int targetScore = 40; // Target score to trigger animation
+    public string scoreboardTag = "ScoreBoards"; // Tag of the Canvas Text
+    public int targetScore = 20; // Target score to trigger animation
     public AnimationClip animationClip; // Animation clip to play on reaching the target score
 
     private int initialScore = -1; // Initial score of the Canvas Text, initialized to an invalid value
