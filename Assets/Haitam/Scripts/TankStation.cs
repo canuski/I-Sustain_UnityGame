@@ -87,7 +87,7 @@ public class TankStationSpawner : MonoBehaviour
         // Bijwerken van de tekst met het aantal verzamelde collectibles
         if (collectedText != null)
         {
-            collectedText.text = "Collected collectables: " + collectedCollectibles.Count+"\nPress T after you have collected 3 collectables";
+            collectedText.text = "Collected collectables: " + collectedCollectibles.Count+"\nPress T after you have collected 3 collectables \n to go to next level hit the back of the car at the tankstation you just spawned the big blue car";
         }
     }
 }
